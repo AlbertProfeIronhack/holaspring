@@ -1,1 +1,1 @@
-web: java -jar /holaspring/target/koyeb1.jar
+web: java -jar target/koyeb1.jar
